@@ -12,7 +12,7 @@ cd client
 yarn run dev
 ```
 
-4. Open `localhost:5173` in your browser (the server is running on `3001` port)
+4. Open `localhost:5173` in your browser
 
 ## What was implemented
 
